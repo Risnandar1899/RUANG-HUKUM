@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruang Hukum - Keadilan dalam Genggaman Digital</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <div class="logo">
+                <img src="https://i.ibb.co/k3tTjWd/logo-ruang-hukum-final.png" alt="Logo Ruang Hukum">
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#beranda">Beranda</a></li>
+                    <li><a href="#tentang">Tentang Kami</a></li>
+                    <li><a href="#layanan">Layanan</a></li>
+                    <li><a href="#artikel">Artikel Hukum</a></li>
+                    <li><a href="#kontak">Kontak</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="beranda" class="hero-section">
+            <div class="hero-content">
+                <h1 class="fade-in">Menjelajahi Lorong Hukum dengan Kecerahan Digital</h1>
+                <p class="fade-in">Solusi hukum yang inovatif, cepat, dan akurat di era digital. Kami hadir untuk menerangi jalan Anda menuju keadilan.</p>
+                <a href="#kontak" class="cta-button fade-in">Konsultasi Sekarang</a>
+            </div>
+        </section>
+
+        <section id="tentang" class="about-section">
+            <div class="container content-section">
+                <h2 class="section-title">Inovasi Bertemu Keadilan</h2>
+                <p>Ruang Hukum adalah platform hukum digital yang didirikan untuk menjawab tantangan zaman. Kami menggabungkan keahlian hukum mendalam dengan kekuatan teknologi untuk memberikan layanan yang tidak hanya efektif, tetapi juga efisien dan mudah diakses oleh semua kalangan.</p>
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios/100/ffd700/processor.png" alt="Icon Teknologi" class="feature-icon">
+                        <h3>Analisis Tajam</h3>
+                        <p>Menggunakan teknologi untuk analisis data hukum yang komprehensif.</p>
+                    </div>
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios/100/ffd700/shield-with-a-dollar-sign.png" alt="Icon Keadilan" class="feature-icon">
+                        <h3>Integritas Tinggi</h3>
+                        <p>Menjunjung tinggi etika dan kerahasiaan dalam setiap penanganan kasus.</p>
+                    </div>
+                    <div class="feature-item">
+                        <img src="https://img.icons8.com/ios/100/ffd700/rocket--v1.png" alt="Icon Kecepatan" class="feature-icon">
+                        <h3>Proses Cepat</h3>
+                        <p>Memanfaatkan alur kerja digital untuk efisiensi waktu dan biaya.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="layanan" class="services-section">
+            <div class="container content-section">
+                <h2 class="section-title">Layanan Hukum Digital Kami</h2>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <h3>Konsultasi Hukum Online</h3>
+                        <p>Dapatkan nasihat hukum dari para ahli secara virtual, aman, dan rahasia. Jadwalkan sesi Anda kapan saja dan di mana saja.</p>
+                        <a href="#" class="service-link">Pelajari Lebih Lanjut &rarr;</a>
+                    </div>
+                    <div class="service-card">
+                        <h3>Bantuan Dokumen Hukum</h3>
+                        <p>Kami membantu penyusunan dan peninjauan berbagai dokumen legal, mulai dari surat perjanjian hingga dokumen perusahaan.</p>
+                        <a href="#" class="service-link">Pelajari Lebih Lanjut &rarr;</a>
+                    </div>
+                    <div class="service-card">
+                        <h3>Riset & Analisis Hukum</h3>
+                        <p>Butuh landasan hukum yang kuat? Tim kami siap melakukan riset mendalam untuk mendukung kasus atau keperluan bisnis Anda.</p>
+                        <a href="#" class="service-link">Pelajari Lebih Lanjut &rarr;</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="artikel" class="blog-section">
+            <div class="container content-section">
+                <h2 class="section-title">Wawasan & Artikel Terbaru</h2>
+                <div class="article-grid">
+                    <article class="article-card">
+                        <img src="https://images.unsplash.com/photo-1589216532372-1c2a36790039?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDYyNzN8MHwxfHNlYXJjaHwxMXx8bGVnYWwlMjBkb2N1bWVudHxlbnwwfHx8fDE3MjY5MDQ4ODF8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Gambar Artikel 1">
+                        <div class="article-content">
+                            <h4>Seputar UU ITE Terbaru</h4>
+                            <p>Memahami poin-poin penting dalam revisi terbaru Undang-Undang Informasi dan Transaksi Elektronik.</p>
+                            <a href="#">Baca Selengkapnya</a>
+                        </div>
+                    </article>
+                    <article class="article-card">
+                        <img src="https://images.unsplash.com/photo-1505664194779-8be224a746fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDYyNzN8MHwxfHNlYXJjaHw0fHxsYXclMjBvZmZpY2V8ZW58MHx8fHwxNzI2OTA0ODU1fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Gambar Artikel 2">
+                        <div class="article-content">
+                            <h4>Tips Melindungi Aset Digital</h4>
+                            <p>Bagaimana hukum melindungi aset digital seperti NFT dan cryptocurrency di Indonesia?</p>
+                            <a href="#">Baca Selengkapnya</a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer id="kontak" class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <h3>RUANG HUKUM</h3>
+                <p>Menavigasi kompleksitas hukum dengan solusi digital yang cerdas. Hubungi kami untuk memulai konsultasi Anda.</p>
+                <p><strong>Email:</strong> kontak@ruanghukum.id | <strong>Telepon:</strong> (021) 123-4567</p>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Ruang Hukum. Seluruh Hak Cipta Dilindungi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
